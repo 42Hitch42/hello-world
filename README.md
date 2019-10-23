@@ -1,2 +1,5 @@
 # hello-world
-Practice for the noob
+
+Hello!
+
+My name is Anna. Hear me roar.
